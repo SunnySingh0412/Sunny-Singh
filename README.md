@@ -1,10 +1,2 @@
-# My C Programs
-This repository contains my c programs from my lab classes and practice work.
-Each program perform different tasks.
-You can open any '.c' file and run it using a C compiler.
-# Files included
--LuckyNumber.c
--weather repert.c
--student_marks_analyzer.c and many more
-# Author
-SUNNY SINGH
+Mini-Project-Btech-CSE-Sec-D-1st-sem
+Name-Sunny Kumari Singh Enrollment No-ADTU/0/2025-29/BTCS/O80
